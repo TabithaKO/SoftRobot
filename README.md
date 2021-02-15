@@ -11,10 +11,13 @@ Arificial Muscle Controlled Robot Hand
 6. connect the pumps to the arduino via jumper wires and the muscles to the pumps via the connectors & pipes
 7. Run the pump2.ino file on an arduino of your choice
 
+
+** intuition [video](https://www.youtube.com/watch?v=rs7W9-Pl1F4)
+
 ## Results
 I'm currently able to fold the fingers with the pump but I need to write code that controls the pumps based on a keypoint detection algorithm
 
-### [demo]()
+### [demo](https://youtu.be/_qTEAlJO0kc)
 
 ## TO DO
 1. Develop a hand pose detection model that works in realtime
