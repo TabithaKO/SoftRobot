@@ -22,3 +22,5 @@ I'm currently able to fold the fingers with the pump but I need to write code th
 ## TO DO
 1. Develop a hand pose detection model that works in realtime
 2. Try and migrate the pump control from Arduino to Raspberry Pi
+
+![IMG_4927](https://user-images.githubusercontent.com/50864401/107985719-3b8cf780-6f90-11eb-9f5f-5719fd6e5e49.jpg)
