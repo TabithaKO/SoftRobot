@@ -1,4 +1,4 @@
-# SoftRobot
+# Soft Robotic Hand
 Arificial Muscle Controlled Robot Hand
 
 
